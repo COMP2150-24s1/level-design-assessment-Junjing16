@@ -18,6 +18,10 @@ Example:
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
+![Alt text](image.png)
+this image are the first setion in the level
+In the first section of the level, My idea is to start from left to right. Players will be born on the far left side of the level and then move all the way to the right. In the process of going right, the player will get a weapon, the weapon is a close combat weapon, players need to get close to the enemy to defeat him. There are 2 type of weapon that player can ger in the game, one is close combat weapon which is one that player can get in the first section, the second one, the second one will be a ranged weapon, which is gun that players will get ranged weapon later in the game.
+
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
