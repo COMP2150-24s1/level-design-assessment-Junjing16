@@ -126,27 +126,33 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
+
+### 2.2. Checkpoints ### 2.3. Chompers ### 2.11. Weapon Pickup (Staff)
+![alt text](image-1.png)
+In the storyboards this is the first area that the player will be faced with. In this storyboard there are 2 types of mechanics that the player will have, that will be chomper and weapon pickup. The first player will get the weapon first, so that player is able to attack the chomper. Chompers is the enemy that player will be fighting with in game, after having the weapon, player can start jump on the jump and start attacking the chompers, jumping is one of the core gameplay in the game, there will be a lot of scenes in the game that require players to jump over, after killing all the chomper, player will start the box to the wall so the is able to jump through the wall and get to the checkpoint.
+
 ### 2.1. Acid
+![alt text](image-2.png)
+In this storyboard is the second area that the player will see in the first section. The player starts to see a new mechanic in the game, which is acid. Acid will will make the player die directly, if player touch the acid, player will respawn at the checkpoint. to go through the acid, it just need jump over, this scene was designed and used because I wanted the player to be able to adapt and jump over the acid.
 
-### 2.2. Checkpoints
 
-### 2.3. Chompers
+### 2.6. Moving Platforms ### 2.9. Spitters
+![alt text](image-3.png)
+In this storyboard is the third area that player will see in the first section, there is are 2 mechanics that player will see in the game, that will be Moving Platforms and Spitters, Moving Platforms can allow the player go to more far alway area that player cannot jump or run through it. and the Spitters is the enemy that has a long attack range, this scene can let the player learn how to use a moving platform and see the new enemy called spitter.
 
-### 2.4. Health Pickups
-
-### 2.5. Keys
-
-### 2.6. Moving Platforms
-
-### 2.7. Passthrough Platforms
 
 ### 2.8. Spikes
+![alt text](image-4.png)
+This storyboards, there are new mechanics call spikes player will first see in the game, spikes is the traps, that will stap player and lost 1 hp, it sound aright, but it is very troublesome because spikes will be at the very small area, for that player need to very careful when jump onto the small area, it is very hard to not stand on top of the spikes. In the storyboard, players kill all the enemies and start jumping through the spikes, but to jump through these long spikes, players need to stay close to the spikes and start jumping. otherwise it will lose 1 hp when jumping through it.
 
-### 2.9. Spitters
 
-### 2.10. Weapon Pickup (Gun)
+### 2.5. Keys ### 2.7. Passthrough Platforms
+![alt text](image-5.png)  ![alt text](image-6.png)
+This storyboard is the area where the key is, one of the important mechanics in the game, to be open the key door and end the game, you need to have 3 keys to be able to open the door. Other mechanics will be Passthrough Platforms, Passthrough Platforms allow player to start on it and go through it, in the storyboard, player has jump through all the platform and kill the spitter on the top, after doge spikes and jump over the acid player finally get the key, after having the key, player can jump down the passthrough platform and leave the area.
 
-### 2.11. Weapon Pickup (Staff)
+### 2.10. Weapon Pickup (Gun) ### 2.4. Health Pickups
+![alt text](image-7.png)
+This storyboard is the last area in the first section. There are new mechanics, Health Pickups and Weapon Pickup(Gun) waiting to pick up. Health Pickups allow the player to health himself, the new weapon gun is a long attack range weapon, allowing the player to attack the enemy from a far distance.
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -166,7 +172,7 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
-
+Before I start use unity to creat the level, first I start drawing out the level in my ipad, the re
 
 
 
