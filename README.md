@@ -95,18 +95,29 @@ After passing these, there will be a gate, then the game ends.
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice? 
 
+
 In first section, the player will start Discovery all the basic in the game. Discove all the game mechanics and the enemies and traps that will appear in the game, for example, in the first section, I will let the players learn how to jump through the acid and the spikes, how to kill enemies, moving boxes and how to use moving platform. at the second section player will get a new weapon gun that is long range distance, allow player to kill the enemy in far distance.
 
-In the senond and thired section, players will encounter more difficult mechanisms later on, player need to use the experience they learned in a first section. In the third seciton, the player will need to explore the cave and Discovery the switch to open the third key door.
+In the senond and thired section, players will encounter more difficult mechanisms later on, player need to use the experience they learned in a first section. In the third seciton, the player will need to explore the cave and Discovery the switch to open the third key door, of course, there will be enemies and traps in each area to block the player progress.
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
-Intensity curve is usually the relationship between the intensity of challenge experienced by players in the game and the progress of the game. It is usually used to describe the difficulty in the game from high to low, and the highs and lows of difficulty in different stages of the game. There are also had intensity curve in the level, In first section will have all the basic level design for play discovery, let the play know what mechanics will show in this level. But in the key scene, the difficulty of the game will be further increased. Especially the second and third keys scenes will be more harder than the fitst key secene.
+
+Intensity curve is usually the relationship between the intensity of challenge experienced by players in the game and the progress of the game. It is usually used to describe the difficulty in the game from high to low, and the highs and lows of difficulty in different stages of the game. There are also had intensity curve in the level, In first section will have all the basic level design for player to discovery, let the player know what mechanics will show in this level. But in the key scene, the difficulty of the game will be further increased. Especially the second and third keys scenes will be more harder than the fitst key scene. for example In the second key scene player need to kill most of the enemy to above get the key, this won't be easy because there will be spikes between the key which player need to focus and control character will not jump over or jump too close, there will be also have enemies try to harass you not to get the key. 
+
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
+The main challenges for this level will be to find the keys, the difficulty of each key will be significantly increased, get the key is also the most difficult part in the game. The key area has the most enemies and traps, and players need slightly higher skills and experience to get the keys. 
+
+The player will have another route when walking to the right, and that route will be the route to the key. I designed it so that players can go to the right to explore and then come back to get the key. This way I can better design and differentiate between harder area and easier area. The harder area will be the areas leading to the keys. 
+
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+In each area, I will separate the key area and the area going to the right. This will allow players to have more choices and see where to explore first which is the real way to go. In each key area, I will increase the difficulty of that area, so that players will have more curiosity and a stronger winning rate to motivate them to move forward and explore. I have placed a trigger door leading to the third area. This trigger door requires players to find a mechanism to open it. to find the mechanism. Player will lead to the underground cave, Ttere will also be traps and enemies waiting for players in the cave.
+There will be different mechanisms in this cave to open another mechanism. player need to open multiple mechanisms to find the one that can actually open the trigger door. This gives players more exploration and more challenges, allow player to have more fun.
+
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
