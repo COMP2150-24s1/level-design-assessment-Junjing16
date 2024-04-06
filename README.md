@@ -95,9 +95,13 @@ After passing these, there will be a gate, then the game ends.
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice? 
 
+In first section, the player will start Discovery all the basic in the game. Discove all the game mechanics and the enemies and traps that will appear in the game, for example, in the first section, I will let the players learn how to jump through the acid and the spikes, how to kill enemies, moving boxes and how to use moving platform. at the second section player will get a new weapon gun that is long range distance, allow player to kill the enemy in far distance.
+
+In the senond and thired section, players will encounter more difficult mechanisms later on, player need to use the experience they learned in a first section. In the third seciton, the player will need to explore the cave and Discovery the switch to open the third key door.
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+Intensity curve is usually the relationship between the intensity of challenge experienced by players in the game and the progress of the game. It is usually used to describe the difficulty in the game from high to low, and the highs and lows of difficulty in different stages of the game. There are also had intensity curve in the level, In first section will have all the basic level design for play discovery, let the play know what mechanics will show in this level. But in the key scene, the difficulty of the game will be further increased. Especially the second and third keys scenes will be more harder than the fitst key secene.
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
@@ -150,6 +154,12 @@ No additional words are necessary for this section (any words should only be wit
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+
+
+
+
+
+
 
 ## Generative AI Use Acknowledgement
 
