@@ -20,16 +20,16 @@ Outline and justify how your level design facilitates the core player experience
 
 ![Alt text](image.png)
 This image is the first section in the level.
-In the first section of the level, Because it is the first section, it will not be very difficult for the player to experience, this section is designed to allow players to become familiar with the gameplay of the game. My idea is to start from left to right. Players will be born on the far left side of the level and then move all the way to the right. In the process of going right, the player will get a weapon, the weapon is a close combat weapon, players need to get close to the enemy to defeat him. There are 2 types of weapons that players can get in the game, one is a close combat weapon which is one that player can get in the first section, the second one will be a ranged weapon, which is a gun, the players will get a ranged weapon later in the game. After Getting the weapon.
+Because it is the first section, it will not be very difficult for the player to experience, this section is designed to allow players to become familiar with the gameplay of the game. My idea is to start from left to right. Players will be born on the far left side of the level and then move all the way to the right. In the process of going right, the player will get a weapon, the weapon is a close combat weapon, players need to get close to the enemy to defeat him. There are 2 types of weapons that players can get in the game, one is a close combat weapon which is one that player can get in the first section, the second one will be a ranged weapon, which is a gun, the players will get a ranged weapon later in the game. After Getting the weapon.
 
 
-The player will encounter the first enemy called Chomper, Chomper is a close combat enemy, after the player goes at the range, Chomper will start to get closer and try to attack the player. Player will have 5 hp at the start if the Chomper did attack the player, the player will lose 1 hp, when the player hits the Chomper once, the Chomper will die. This part is for the player to experience how to attack the enemy.
+The player will encounter the first enemy called Chomper, Chomper is a close combat enemy, after the player goes at the range, Chomper will start to get closer and try to attack the player. Player will have 5 hp at the start if the Chomper did attack the player, the player will lose 1 hp, when the player hits the Chomper once, the Chomper will die. This part is for the player to experience how to attack the enemy, which there will encounter more enemies on the way.
 
 
 After that, the player has to push the box to the right wall, and then the player can jump over the wall and then reach two acids. The player will jump over one of them to reach another land before jumping over the second acid. the player will then move forward and find a save point, there is another acid at the front, but it is very big. The player needs to jump on the moving platform above to pass the acid. In this part the player is to experience how to jump though the acid and how to use a moving platform to go thought the acid, there will be a lot of acid that the player needs to go though.
 
 
-There are two ways the player can go, one way is to go down and face 2 Chomper and 1 Spitter. The player can experience a new enemy called Spitter, Spitter is a long range shooter, able to attack players within a certain distance. Another way is to go up into the cave. The cave is on the sky in which the player needs to use a small portion of their parkour abilities, there will be one of the keys inside the cave which the player has to get it to be able to finish the game.
+There are two ways the player can go, one way is to go down and face 2 Chomper and 1 Spitter. The player can experience a new enemy called Spitter, Spitter is a long range shooter, able to attack players within a certain distance. Another way is to go up into the cave. The cave is on the sky which the player needs to use a small portion of their parkour abilities, there will be one of the keys inside the cave which the player has to get it to be able to finish the game.
 
 
 Inside the cave. There is acid, 1 Spitter and a new trap for the player which is Spikes, Spikes will cause the player to lose 1 hp. jumping all over and killing Spitter, Player cannot very see what's below, there will be 1 Spikes at the right and are acid ar the left, If the player jumps without thinking of anything, he may hit a Spikers or go in thought the acid and die. This can be regarded as a Discovery, Drama and Exploration, because players don’t know what will be next and want to find out and die.
@@ -40,6 +40,11 @@ After all the things happen, the player finally has the first key and goes down 
 
 There are 3 enemies and 4 Spikes there, this is a bit of a challenge, the player will have to run to a good position and jump higher than they can to pass through the spikes without getting any damage. After all, this player finally can go to the next section.
 
+
+In the next section, player will enter the cave, have checkpoint 2 health and a gun waiting for player to pick up. in the new section there will be a bit more challenge design for player to play with. 
+
+
+Players will use platform to jump up. This part is to let players get a little familiar with jumping, there will be many jumping mechanisms that players need to face later.
 
 
 
