@@ -96,27 +96,31 @@ After passing these, there will be a gate, then the game ends.
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice? 
 
 
-In first section, the player will start Discovery all the basic in the game. Discove all the game mechanics and the enemies and traps that will appear in the game, for example, in the first section, I will let the players learn how to jump through the acid and the spikes, how to kill enemies, moving boxes and how to use moving platform. at the second section player will get a new weapon gun that is long range distance, allow player to kill the enemy in far distance.
+In the first section, the player will start to discover all the basics in the game. Discover all the game mechanics and the enemies and traps that will appear in the game, for example, in the first section, I will let the players learn how to jump through the acid and the spikes, how to kill enemies, moving boxes and how to use a moving platform. In the second section the player will get a new weapon gun that is long range, allowing the player to kill the enemy from a far distance.
 
-In the senond and thired section, players will encounter more difficult mechanisms later on, player need to use the experience they learned in a first section. In the third seciton, the player will need to explore the cave and Discovery the switch to open the third key door, of course, there will be enemies and traps in each area to block the player progress.
+In the second and third section, players will encounter more difficult mechanisms later on, players need to use the experience they learned in the first section. In the third section, the player will need to explore the cave and Discover the switch to open the third key door, of course, there will be enemies and traps in each area to block the player progres。
+
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
 
-Intensity curve is usually the relationship between the intensity of challenge experienced by players in the game and the progress of the game. It is usually used to describe the difficulty in the game from high to low, and the highs and lows of difficulty in different stages of the game. There are also had intensity curve in the level, In first section will have all the basic level design for player to discovery, let the player know what mechanics will show in this level. But in the key scene, the difficulty of the game will be further increased. Especially the second and third keys scenes will be more harder than the fitst key scene. for example In the second key scene player need to kill most of the enemy to above get the key, this won't be easy because there will be spikes between the key which player need to focus and control character will not jump over or jump too close, there will be also have enemies try to harass you not to get the key. 
+Intensity curve is usually the relationship between the intensity of challenge experienced by players in the game and the progress of the game. It is usually used to describe the difficulty in the game from high to low, and the highs and lows of difficulty in different stages of the game. There are also intensity curves in the level. The first section will have all the basic level design for the player to discover, letting the player know what mechanics will show in this level. But in the key scene, the difficulty of the game will be further increased. The second and third key scenes will be harder than the first key scene. for example In the second key scene player need to kill most of the enemy to above get the key, this won't be easy because there will be spikes between the key which player need to focus and control character will not jump over or jump too close, there will be also have enemies try to harass you not to get the key.
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
-The main challenges for this level will be to find the keys, the difficulty of each key will be significantly increased, get the key is also the most difficult part in the game. The key area has the most enemies and traps, and players need slightly higher skills and experience to get the keys. 
+The main challenges for this level will be to find the keys, the difficulty of each key will be significantly increased, getting the key is also the most difficult part in the game. The key area has the most enemies and traps, and players need slightly higher skills and experience to get the keys.
 
-The player will have another route when walking to the right, and that route will be the route to the key. I designed it so that players can go to the right to explore and then come back to get the key. This way I can better design and differentiate between harder area and easier area. The harder area will be the areas leading to the keys. 
+
+The player will have another route when walking to the right, and that route will be the route to the key. I designed it so that players can go to the right to explore and then come back to get the key. This way I can better design and differentiate between harder areas and easier areas. The harder area will be the areas leading to the keys.
+
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
-In each area, I will separate the key area and the area going to the right. This will allow players to have more choices and see where to explore first which is the real way to go. In each key area, I will increase the difficulty of that area, so that players will have more curiosity and a stronger winning rate to motivate them to move forward and explore. I have placed a trigger door leading to the third area. This trigger door requires players to find a mechanism to open it. to find the mechanism. Player will lead to the underground cave, Ttere will also be traps and enemies waiting for players in the cave.
-There will be different mechanisms in this cave to open another mechanism. player need to open multiple mechanisms to find the one that can actually open the trigger door. This gives players more exploration and more challenges, allow player to have more fun.
+In each area, I will separate the key area and the area going to the right. This will allow players to have more choices and see where to explore first which is the real way to go. In each key area, I will increase the difficulty of that area, so that players will have more curiosity and a stronger winning rate to motivate them to move forward and explore. I have placed a trigger door leading to the third area. This trigger door requires players to find a mechanism to open it. to find the mechanism. Players will lead to the underground cave, There will also be traps and enemies waiting for players in the cave.
+There will be different mechanisms in this cave to open another mechanism. Players need to open multiple mechanisms to find the one that can actually open the trigger door. This gives players more exploration and more challenges, allowing players to have more fun.
+
 
 
 ## 2. Core Gameplay (~400 words)
@@ -160,6 +164,7 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
+![alt text](image-8.png)
 
 ### 3.2. Level Map – Section 1
 
@@ -172,9 +177,7 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
-Before I start use unity to creat the level, first I start drawing out the level in my ipad, the re
-
-
+Before I start using unity to create the level, first I start drawing out the level on my ipad. The reason I started drawing the level first is because personally I think drawing can make me feel actually creating and planting the idea for the level. If I miss something or change my idea I can just wipe it off and draw it again or new one, and I don't need to worry about running out of the pen or paper, I can just get a new page in the ipad and start drawing it again. Because the ipad is very light and small, I can grab the ipad with me and create the level anywhere I go. after having my drawing level done in my ipad, it time to use unity to create my level, in the way trying to implement my drawing level into unity I found out there is a lot of thing i need to change, for example in the draw I draw first section to second section is a bit too long, so I make the way first section to second section a bit short, so the player won't getting boring when walk to the second section. and in the drawing the third section has a lot of platforms. I found out that is not very necessary, too much platform will make the level easier, so I decided to take away some of the platform in the third section. After I finished creating the level, After I completed the level, I played it for a while and found that I could add more scenes to it, so I added another area in the third section, that area is the cave, that is near the trigger door in the third section. Players will need to use the switch inside to open the door above, the previous mechanism will start another mechanism closer to the door. After all this, I found the environment in the level a bit too monotonous, so I started adding the decoration, to make the level look better.
 
 
 
