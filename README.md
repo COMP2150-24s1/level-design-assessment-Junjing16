@@ -75,19 +75,26 @@ In the first section, the player will start to discover all the basics in the ga
 In the second and third section, players will encounter more difficult mechanisms later on, players need to use the experience they learned in the first section. In the third section, the player will need to explore the cave and Discover the switch to open the third key door, of course, there will be enemies and traps in each area to block the player progres。
 
 ### 1.2. Drama
-![first key area](image-40.png) ![second key area](image-41.png)![third key area](image-42.png)
+![first key area](image-40.png) 
+![second key area](image-41.png)
+![third key area](image-42.png)
 Intensity curve is usually the relationship between the intensity of challenge experienced by players in the game and the progress of the game. It is usually used to describe the difficulty in the game from high to low, and the highs and lows of difficulty in different stages of the game. There are also intensity curves in the level. The first section will have all the basic level design for the player to discover, letting the player know what mechanics will show in this level. But in the key scene, the difficulty of the game will be further increased. The second and third key scenes will be harder than the first key scene. for example In the second key scene player need to kill most of the enemy to above get the key, this won't be easy because there will be spikes between the key which player need to focus and control character will not jump over or jump too close, there will be also have enemies try to harass you not to get the key. The third key will be more focus on you parkour skills In the game, player need to be fast enough to get the key and get out without getting any hit.
 
 ### 1.3. Challenge
 The main challenges for this level will be to find the keys, the difficulty of each key will be significantly increased, getting the key is also the most difficult part in the game. The key area has the most enemies and traps, and players need slightly higher skills and experience to get the keys.
-![2 way in section 1](image-43.png) ![2 way in section 2](image-44.png)
+
+![2 way in section 1](image-43.png) 
+![2 way in section 2](image-44.png)
+
 The player will have another route when walking to the right, and that route will be the route to the key. I designed it so that players can go to the right to explore and then come back to get the key. This way I can better design and differentiate between harder areas and easier areas. The harder area will be the areas leading to the keys.
 
 
 
 ### 1.4. Exploration
 In each area, I will separate the key area and the area going to the right. This will allow players to have more choices and see where to explore first which is the real way to go. In each key area, I will increase the difficulty of that area, so that players will have more curiosity and a stronger winning rate to motivate them to move forward and explore. I have placed a trigger door leading to the third area. This trigger door requires players to find a mechanism to open it. to find the mechanism. Players will lead to the underground cave, There will also be traps and enemies waiting for players in the cave.
-![section 3](image-45.png)  ![inside the cave](image-46.png)
+![section 3](image-45.png)  
+![inside the cave](image-46.png)
+
 There will be different mechanisms in this cave to open another mechanism. Players need to open multiple mechanisms to find the one that can actually open the trigger door. This gives players more exploration and more challenges, allowing players to have more fun.
 
 
