@@ -66,7 +66,7 @@ After the switch has been touched, the platform on the left will start moving, s
 ![third key area](DocImages/image-35.png)
 After the door is open the player will start facing the harder scene in the game, This is a rectangular level with many platforms. There will be some spikes on different platforms to block players.Players need to move up step by step and avoid monster attacks to go to the upper right corner to get the key. If you fall down while playing, there will be acid waiting for the player below. This is the scene where players need to make good use of their parkour skills and dodge abilities.
 
-![final area in section 3](DocImages/mage-36.png)
+![final area in section 3](DocImages/image-36.png)
 After getting all the keys, the player can go to the door and end the game. Of course, there will also be mechanisms and enemies blocking the player's progress on the way to the gate.But these mechanisms will not be as difficult as before. After passing these, there will be a gate, then the game ends.
 
 ### 1.1. Discovery
