@@ -90,6 +90,7 @@ The player will have another route when walking to the right, and that route wil
 
 ### 1.4. Exploration
 In each area, I will separate the key area and the area going to the right. This will allow players to have more choices and see where to explore first which is the real way to go. In each key area, I will increase the difficulty of that area, so that players will have more curiosity and a stronger winning rate to motivate them to move forward and explore. I have placed a trigger door leading to the third area. This trigger door requires players to find a mechanism to open it. to find the mechanism. Players will lead to the underground cave, There will also be traps and enemies waiting for players in the cave.
+
 ![section 3](DocImages/image-45.png)  
 ![inside the cave](DocImages/image-46.png)
 
